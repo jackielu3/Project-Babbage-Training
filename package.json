@@ -1,0 +1,20 @@
+{
+  "dependencies": {
+    "@babbage/sdk": "^0.4.48",
+    "@babbage/sdk-ts": "^0.2.54",
+    "@types/react": "^18.3.11",
+    "@types/react-dom": "^18.3.1",
+    "pushdrop": "^0.1.64",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.6.3"
+  },
+  "name": "projectbabbage",
+  "version": "1.0.0",
+  "main": "fibonacci.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
