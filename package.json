@@ -1,7 +1,8 @@
 {
   "dependencies": {
     "@babbage/sdk": "^0.4.48",
-    "@babbage/sdk-ts": "^0.2.54",
+    "@babbage/sdk-ts": "^0.2.58",
+    "@babbage/tokenator": "^0.2.37",
     "@types/react": "^18.3.11",
     "@types/react-dom": "^18.3.1",
     "pushdrop": "^0.1.64",
